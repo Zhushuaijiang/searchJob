@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Hi.Web</name>
+    </assembly>
+    <members>
+        <member name="M:Hi.Web.WebAPI.HiJobController.GetJobBasicInfo(System.String,System.String,System.String,System.Int32)">
+            <summary>
+            获取job基本信息
+            </summary>
+            <param name="place">地区(如:北京 上海)</param>
+            <param name="key">关键字(如:.net)</param>
+            <param name="sources">数据源[前程_智联_拉勾_猎聘 注意以'_'分割]</param>
+            <param name="pageIndex">页码</param>
+            <returns></returns>
+        </member>
+        <member name="M:Hi.Web.WebAPI.HiJobController.GetJobDetailsInfo(System.String)">
+            <summary>
+             获取job详细信息
+            </summary>
+            <param name="url"></param>        
+            <returns></returns>
+        </member>
+    </members>
+</doc>

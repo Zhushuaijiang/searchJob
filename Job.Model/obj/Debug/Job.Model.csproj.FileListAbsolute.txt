@@ -1,0 +1,16 @@
+C:\work\zsj\mycode\job源码2.0\Job.Model\bin\Debug\Job.Model.dll
+C:\work\zsj\mycode\job源码2.0\Job.Model\bin\Debug\Job.Model.pdb
+C:\work\zsj\mycode\job源码2.0\Job.Model\bin\Debug\Newtonsoft.Json.dll
+C:\work\zsj\mycode\job源码2.0\Job.Model\bin\Debug\System.Net.Http.Formatting.dll
+C:\work\zsj\mycode\job源码2.0\Job.Model\bin\Debug\System.Web.Http.dll
+C:\work\zsj\mycode\job源码2.0\Job.Model\bin\Debug\System.Web.Http.WebHost.dll
+C:\work\zsj\mycode\job源码2.0\Job.Model\bin\Debug\Newtonsoft.Json.xml
+C:\work\zsj\mycode\job源码2.0\Job.Model\bin\Debug\System.Net.Http.Formatting.xml
+C:\work\zsj\mycode\job源码2.0\Job.Model\bin\Debug\System.Web.Http.xml
+C:\work\zsj\mycode\job源码2.0\Job.Model\bin\Debug\System.Web.Http.WebHost.xml
+C:\work\zsj\mycode\job源码2.0\Job.Model\bin\Debug\zh-Hans\System.Net.Http.Formatting.resources.dll
+C:\work\zsj\mycode\job源码2.0\Job.Model\bin\Debug\zh-Hans\System.Web.Http.resources.dll
+C:\work\zsj\mycode\job源码2.0\Job.Model\bin\Debug\zh-Hans\System.Web.Http.WebHost.resources.dll
+C:\work\zsj\mycode\job源码2.0\Job.Model\obj\Debug\Job.Model.csprojResolveAssemblyReference.cache
+C:\work\zsj\mycode\job源码2.0\Job.Model\obj\Debug\Job.Model.dll
+C:\work\zsj\mycode\job源码2.0\Job.Model\obj\Debug\Job.Model.pdb

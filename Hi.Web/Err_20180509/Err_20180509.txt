@@ -1,0 +1,20 @@
+----begin-------2018/5/9 11:12:19----Queue.Count：0-----------------------------------
+
+
+错误信息：无法从传输连接中读取数据: 您的主机中的软件中止了一个已建立的连接。。
+错误源：System
+异常方法：Int32 Read(Byte[], Int32, Int32)
+堆栈信息：   在 System.Net.ConnectStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   在 System.IO.StreamReader.ReadBuffer()
+   在 System.IO.StreamReader.ReadToEnd()
+   在 HtmlAgilityPack.HtmlDocument.Load(TextReader reader) 位置 D:\SVN_CHECKOUT\htmlagilitypack\Trunk\HtmlAgilityPack\HtmlDocument.cs:行号 612
+   在 HtmlAgilityPack.HtmlDocument.Load(Stream stream, Encoding encoding) 位置 D:\SVN_CHECKOUT\htmlagilitypack\Trunk\HtmlAgilityPack\HtmlDocument.cs:行号 537
+   在 HtmlAgilityPack.HtmlWeb.Get(Uri uri, String method, String path, HtmlDocument doc, IWebProxy proxy, ICredentials creds) 位置 D:\SVN_CHECKOUT\htmlagilitypack\Trunk\HtmlAgilityPack\HtmlWeb.cs:行号 1426
+   在 HtmlAgilityPack.HtmlWeb.LoadUrl(Uri uri, String method, WebProxy proxy, NetworkCredential creds) 位置 D:\SVN_CHECKOUT\htmlagilitypack\Trunk\HtmlAgilityPack\HtmlWeb.cs:行号 1479
+   在 HtmlAgilityPack.HtmlWeb.Load(String url, String method) 位置 D:\SVN_CHECKOUT\htmlagilitypack\Trunk\HtmlAgilityPack\HtmlWeb.cs:行号 1106
+   在 HtmlAgilityPack.HtmlWeb.Load(String url) 位置 D:\SVN_CHECKOUT\htmlagilitypack\Trunk\HtmlAgilityPack\HtmlWeb.cs:行号 1061
+   在 Job.Common.JobRequest.GetRequest(List`1& listJobInfo, String url, DataType type, Int32 pn, String kd) 位置 c:\work\zsj\mycode\job源码2.0\Job.Common\JobRequest.cs:行号 129
+
+----end----------2018/5/9 11:12:19----Queue.Count：0-----------------------------------
+
+
